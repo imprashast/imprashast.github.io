@@ -1,8 +1,8 @@
 # Setup
-title:        Personal Blog
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Das Bin Ich
+tagline:      Rants, Motivation and Quotes from a Full Stack Developer
 baseurl:      ""
-paginate:     1
+paginate:     10
 
 # About/contact
 author:
